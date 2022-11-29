@@ -1,0 +1,60 @@
+body{
+    font-family: 'Times New Roman', Georgia, Times, sans-serif;
+    background-color: rgb(105, 37, 199);
+}
+
+#open {
+    color:rgb(247, 6, 126);
+}
+
+.header,
+.left {
+    font-weight: bolder;
+    text-align: center;
+    color: rgb(16, 215, 33);
+}
+
+.left {
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
+
+.small {
+    font-size: 20px;
+}
+
+.list,
+.para {
+    font-weight: 500;
+    color:rgb(247, 6, 126);
+}
+
+.img {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.return,
+.button {
+    background-color:rgb(16, 215, 33);
+    font-weight: bold;
+    font-size: 16px;
+    border: 2px solid black;
+    padding: 14px;
+    cursor: grab;
+    
+}
+
+.default:hover {
+    background: #e7e7e7;
+  }
+
+.return {
+    text-align: left;
+}
